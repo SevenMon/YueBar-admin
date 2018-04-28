@@ -1,4 +1,5 @@
 # yuebar-admin
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+约吧后台管理系统
+>>>>>>> 455e6a1444144a18db36e59d98898a68711abeed
